@@ -1,0 +1,11 @@
+{
+    "name": "HAMSAY",
+    "symbol": "HAMSAY",
+    "description": "Hamsay, the Ramsay of the Hamsters",
+    "image": "https://raw.githubusercontent.com/hamsaycoin/hamsay/main/hamsay%20500x500.jpg",
+    "extensions": {
+      "website": "https://www.hamsay.xyz",
+      "twitter": "https://x.com/hamsaycoin",
+      "telegram": "https://t.me/hamsay_coin"
+    }
+}
