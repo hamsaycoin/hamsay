@@ -1,7 +1,11 @@
 {
     "name": "HAMSAY",
     "symbol": "HAMSAY",
-    "description": "Hamsay, the Ramsay of the Hamsters\nhttps://www.hamsay.xyz\nhttps://x.com/hamsaycoin\nhttps://t.me/hamsay_coin",
+    "description": "Hamsay, the Ramsay of the Hamsters",
     "image": "https://raw.githubusercontent.com/hamsaycoin/hamsay/main/hamsay%20500x500.jpg",
-    "external_url": "https://www.hamsay.xyz"
+    "extensions": {
+      "website": "https://www.hamsay.xyz",
+      "twitter": "https://x.com/hamsaycoin",
+      "telegram": "https://t.me/hamsay_coin"
+    }
 }
